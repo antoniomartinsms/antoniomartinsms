@@ -4,7 +4,7 @@
 
 Gosto de desafios: olimpíadas, projetos, competições, entre outros.
 
-Estou na JTT aprimorando meus conhecimentos em programação.
+Estou no JTT aprimorando meus conhecimentos em programação.
 
 ## Linguagens e Tecnologias
 
