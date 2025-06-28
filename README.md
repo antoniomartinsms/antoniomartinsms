@@ -1,12 +1,12 @@
 ## Antônio Martins
 
-## Hello! 👋
+## Olá! 👋
 
-I like challenges: olympiads, projects, competitions, among others.
+Gosto de desafios: olimpíadas, projetos, competições, entre outros.
 
-I'm at JTT improving my programming knowledge.
+Estou na JTT aprimorando meus conhecimentos em programação.
 
-## Tech Stack
+## Linguagens e Tecnologias
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
