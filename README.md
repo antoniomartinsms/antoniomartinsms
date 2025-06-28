@@ -1,15 +1,37 @@
 ## Antônio Martins
 
-## Olá! 👋
+## Hello! 👋
 
-Gosto de desafios: olímpiadas, projetos, competições, entre outros.
+I like challenges: olympiads, projects, competitions, among others.
 
-Estou no JTT melhorando meu conhecimento em programação.
+I'm at JTT improving my programming knowledge.
 
-## Linguagens utilizadas
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
